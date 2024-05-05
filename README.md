@@ -12,7 +12,7 @@ about fake news. Please do not use.
 
 ### Installation et lancement
 
-Pour installer le projet, il executer quelque commandes.
+Pour installer le projet, il faut executer quelque commandes.
 ```sh
 # Cloner le dépôt
 git clone https://github.com/drafolin/fake-login-raif
