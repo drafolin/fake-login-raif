@@ -34,3 +34,14 @@ lancer le serveur web. Pour ce faire, se rendre dans le dossier racine.
 cd web
 npm start
 ```
+
+### Configuration du domaine _spoofé_
+
+Pour faire croire à notre ordinateur que le domaine reiffeisen.ch nous appartient,
+il faut éditer le fichier host (`/etc/hosts` sur UNIX, 
+`C:\Windows\system32\drivers\etc\hosts` sur Windows), et y ajouter la ligne 
+suivante:
+
+```hosts
+127.0.0.1 reiffeisen.ch
+```
