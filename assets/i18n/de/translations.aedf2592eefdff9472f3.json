@@ -1,0 +1,475 @@
+{
+  "app_update": {
+    "button_update": "App jetzt aktualisieren",
+    "leadtext_android": "Sie haben Ihr Login auf den Raiffeisen Login geändert und verwenden eine nicht mehr unterstützte Version der Raiffeisen <span class=\"no-wrap\">E-Banking</span> App. Eine Nutzung ist nur möglich, wenn Sie im Google Play Store die App aktualisieren.",
+    "leadtext_ios": "Sie haben Ihr Login auf den Raiffeisen Login geändert und verwenden eine nicht mehr unterstützte Version der Raiffeisen <span class=\"no-wrap\">E-Banking</span> App. Eine Nutzung ist nur möglich, wenn Sie im Apple App Store die App aktualisieren.",
+    "store_url_android": "https://play.google.com/store/apps/details?id=ch.raiffeisen.android",
+    "store_url_ios": "https://itunes.apple.com/ch/app/raiffeisen-e-banking/id371762633?mt=8",
+    "text_contact": "Bei Fragen hilft Ihnen das Kunden-Service-Center gerne unter der Telefonnummer <b>0844 724 333</b> weiter.",
+    "title": "App Update erforderlich"
+  },
+  "application": {
+    "account": "Benutzerprofil",
+    "boerse": "Börse",
+    "ebanking": "E-Banking",
+    "ebics": "KMU eServices",
+    "esafe": "E-Safe",
+    "memberplus": "MemberPlus",
+    "ohyp_new": "Hypothek abschliessen",
+    "ohyp_renewal": "Hypothek ablösen",
+    "oko_fk": "Kreditofferte für Firmen",
+    "privacy": "Privacy",
+    "roboplus-mobile": "Rio"
+  },
+  "appSwitch": {
+    "toLoginFor": "Zum Login für"
+  },
+  "common": {
+    "device_not_activated": {
+      "text": "Ist Ihr Mobiltelefon/PhotoTAN-Gerät nicht aktiviert?"
+    },
+    "login_error": {
+      "text": "Es ist ein Problem beim Login aufgetreten. Bitte versuchen Sie es erneut."
+    },
+    "main_link": {
+      "back_to_ebanking": "Umstellung abbrechen",
+      "back_to_mobileTAN": "Aktivierung abbrechen",
+      "cancel_initial_login": "Abbrechen",
+      "cancel_login": "Login abbrechen",
+      "cancel_photo_tan_activation": "Abbrechen"
+    },
+    "need_help_with_login": {
+      "text": "Brauchen Sie Hilfe beim Login?"
+    },
+    "password_forgotten": {
+      "text": "Passwort vergessen?"
+    }
+  },
+  "deleted_device_error": {
+    "leadtext": "Der Loginvorgang ist fehlgeschlagen, da das von Ihnen verwendete Gerät nicht mehr verknüpft ist.",
+    "title": "Verwendetes Login-Gerät ist nicht mehr verknüpft"
+  },
+  "deprecated_browser_info": {
+    "browser_check": {
+      "text": "Übersicht sichere Internet-Browser",
+      "url": "https://www.raiffeisen.ch/browser"
+    },
+    "ignore_button": "Trotzdem weiter",
+    "lead": "Bitte installieren Sie ein Update oder einen anderen Browser bis spätestens 31.&nbsp;Mai&nbsp;2022.<br><br>Zur Unterstützung haben wir Ihnen eine Übersicht sicherer Browser zusammengestellt.",
+    "title": "Der Internet-Browser, mit dem Sie gerade auf die Online Services von Raiffeisen zugreifen, ist leider veraltet. Er ist darum nicht mehr sicher."
+  },
+  "device_token": {
+    "activate_button": "Aktivieren",
+    "cancel_button": "Abbrechen",
+    "fingerprint": {
+      "disclaimer_1": "Mit der Aktivierung des biometrischen Logins erhalten alle Personen Zugriff auf diese App, deren biometrischen Merkmale auf diesem Gerät registriert sind.",
+      "disclaimer_2": "Raiffeisen kann keine Garantie für die Qualität der Biometrie-Funktionalität von den Betriebssytemen- oder Geräte-Hersteller übernehmen und somit den Zugriff unbefugter Dritter nicht gänzlich ausschliessen. Beachten Sie bitte auch, dass unbefugte Zugriffe durch Dritte zudem auch durch ungewollte Authentifizierung (z.B. im Schlaf) erfolgen können.",
+      "disclaimer_3": "Sie können die Geräte Verknüpfung jederzeit in Ihrem Benutzerprofil widerrufen.",
+      "disclaimer_title": "Sicherheitshinweis für biometrische Verfahren:",
+      "title": "Möchten Sie jetzt das Login mit Fingerabdruck oder Gesichtserkennung aktivieren?"
+    }
+  },
+  "first_factor": {
+    "locked": "Ihr Account ist gesperrt",
+    "login": "Login",
+    "loginFor": "Login für",
+    "not_available": {
+      "error": "Es besteht ein technisches Problem. Das Login ist vorübergehend nicht verfügbar."
+    },
+    "password": {
+      "capsLock": "Ihre Caps Lock Taste ist aktiviert.",
+      "error": {
+        "required": "Bitte geben Sie Ihr Passwort ein.",
+        "unknown": "Es ist ein technisches Problem beim Login aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie den Support.",
+        "wrong": {
+          "contract": "Die eingegebene Vertragsnummer und/oder Ihr Passwort war nicht zulässig. Bitte geben Sie Ihre Anmeldedaten erneut ein.",
+          "contractAndEmail": "Die eingegebene E-Mail/Vertragsnummer und/oder Ihr Passwort war nicht zulässig.  Bitte geben Sie Ihre Anmeldedaten erneut ein.",
+          "email": "Die eingegebene E-Mail-Adresse und/oder Ihr Passwort war nicht zulässig. Bitte geben Sie Ihre Anmeldedaten erneut ein."
+        }
+      },
+      "label": "Persönliches Passwort"
+    },
+    "register": {
+      "text": "Neu registrieren"
+    },
+    "roboplus": {
+      "text": "Verwenden Sie für den Login Ihre <span class=\"no-wrap\">E-Banking</span> Vertragsnummer."
+    },
+    "submit": {
+      "text": "Weiter"
+    },
+    "swissid": {
+      "button": "Login mit SwissID",
+      "disclaimer": "Mit dem SwissID Login akzeptieren Sie die Raiffeisen <a href=\"https://www.raiffeisen.ch/rch/de/ueber-uns/raiffeisen-gruppe/disclaimer-website/nutzungsbedingungen.html\" target=\"_blank\" rel=\"noopener noreferrer\">Nutzungsbedingungen</a>."
+    },
+    "username": {
+      "contract": {
+        "error": "Bitte geben Sie Ihre 9-stellige Vertragsnummer ein.",
+        "label": "Vertragsnummer"
+      },
+      "contractAndEmail": {
+        "error": "Bitte geben Sie eine gültige E-Mail-Adresse/Vertragsnummer ein.",
+        "label": "E-Mail-Adresse/Vertragsnummer"
+      },
+      "email": {
+        "error": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+        "label": "E-Mail-Adresse"
+      }
+    }
+  },
+  "footer": {
+    "contactLabel": "Kontakt",
+    "contactUrl": "/rch/de/privatkunden/mitgliedschaft/kontakt-benutzeraccount.html",
+    "copyright": "© {{year}} Raiffeisen Schweiz",
+    "disclaimerLabel": "Impressum und Disclaimer",
+    "disclaimerUrl": "/rch/de/ueber-uns/raiffeisen-gruppe/disclaimer-website.html",
+    "ebDemoLabel": "Demo E-Banking",
+    "ebDemoUrl": "https://ebankingdemo.raiffeisen.ch?language=de",
+    "helpLabel": "Hilfe und Kontakt",
+    "raiffeisenLegalName": "Raiffeisen Schweiz Genossenschaft",
+    "raiffeisenName": "Raiffeisen Schweiz",
+    "termsLabel": "Nutzungsbedingungen",
+    "termsUrl": "/nutzungsbedingungen"
+  },
+  "help": {
+    "accordion_pt_device": {
+      "activate_pt_device": "PhotoTAN-Gerät aktivieren",
+      "info": "Folgen Sie Schritt für Schritt der Anleitung:",
+      "title": "Mit Raiffeisen PhotoTAN-Gerät"
+    },
+    "accordion_smartphone_tablet": {
+      "info": "Danach können Sie sich mit Ihrer Vertragsnummer und Ihrem Passwort im E-Banking (www.raiffeisen.ch > «E-Banking» oder App «Raiffeisen E-Banking») und in unseren anderen digitalen Services anmelden.",
+      "list": "<li>Installieren oder aktualisieren Sie die App «Raiffeisen PhotoTAN» im Apple App Store oder bei Google Play.</li><li>Öffnen Sie die App und scannen Sie das grün umrandete Mosaik auf Ihrem Aktivierungsbrief.</li><li>Geben Sie den Bestätigungscode ein, den Raiffeisen Ihnen sendet.</li>",
+      "order_letter": "PhotoTAN-Aktivierungsbrief bestellen",
+      "title": "Mit Smartphone oder Tablet"
+    },
+    "activate_photo_tan": "PhotoTAN-App / PhotoTAN-Gerät aktivieren",
+    "back_button": "Zurück",
+    "change_mobile_number": "Mobilnummer ändern",
+    "contact_ksc": "Unser Kunden Service Center hilft Ihnen gerne persönlich weiter.",
+    "contact_ksc_button": "Kontakt anzeigen",
+    "help_portal": "Zum Hilfeportal",
+    "help_portal_url": "https://www.raiffeisen.ch/rch/de/tools-rechner/login-hilfe.html",
+    "password_forgotten": "Passwort vergessen",
+    "safety_ebanking": "Sicherheit im E-Banking",
+    "safety_ebanking_url": "https://www.raiffeisen.ch/st--gallen/de/privatkunden/e-banking/sicherheit-im-e-banking.html",
+    "title": "Hilfe zum Raiffeisen Login",
+    "title_activate_phototan": "PhotoTAN aktivieren",
+    "title_login_password": "Login und Passwort",
+    "title_more_help": "Weitere Hilfen und Anleitungen",
+    "title_safety": "Sicherheit",
+    "unlock_login": "Login entsperren"
+  },
+  "initial_login_confirmation": {
+    "confirm": "Weiter",
+    "leadtext": "Ab sofort greifen Sie zentral und geschützt auf alle Services zu. Klicken Sie auf «Weiter», damit Sie zu Ihrer gewünschten Anwendung gelangen.",
+    "title": "Sie haben Ihr Raiffeisen Login erfolgreich eingerichtet."
+  },
+  "locked": {
+    "info_text": {
+      "contract": "Ihr Login mit der Vertragsnummer <strong>{{contractNr}}</strong> wurde aus Sicherheitsgründen gesperrt.",
+      "email": "Ihr Raiffeisen Benutzerprofil wurde aus Sicherheitsgründen gesperrt.",
+      "general": "Ihr Login wurde aus Sicherheitsgründen gesperrt."
+    },
+    "title": "Ihr Login ist gesperrt.",
+    "unlock_button": {
+      "text": "Login entsperren"
+    }
+  },
+  "login_news": {
+    "notification_bar": {
+      "show_less": "weniger anzeigen",
+      "show_more": "mehr anzeigen"
+    }
+  },
+  "logo": "Zurück zu {{homeUrl}} - Raiffeisen Logo",
+  "mobile_tan": {
+    "leadtext": {
+      "text": "Wir haben einen 6-stelligen Code per SMS an <span class=\"no-wrap\"><strong>{{mobileNr}}</strong> gesendet.</span>"
+    },
+    "resend": {
+      "done": "SMS versendet",
+      "text": "Erneut senden",
+      "tip": "Keine SMS erhalten?"
+    },
+    "security_code": {
+      "error": {
+        "not_valid": "Der eingegebene Code war nicht zulässig. Bitte geben Sie den Code erneut ein.",
+        "pattern": "Bitte geben Sie den 6-stelligen Code aus der SMS ein.",
+        "required": "Bitte geben Sie den 6-stelligen Code aus der SMS ein.",
+        "send_mtan": "Es ist ein Fehler beim Versenden des SMS aufgetreten. Bitte versuchen Sie es erneut."
+      },
+      "label": "Code eingeben"
+    },
+    "submit": {
+      "text": "Code bestätigen"
+    },
+    "switch_to_photo_tan": "Oder mit PhotoTAN"
+  },
+  "not_found": {
+    "button_login": "Anmelden",
+    "leadtext": "Vielleicht haben Sie eine falsche oder veraltete URL aufgerufen. Bitte gehen Sie zurück zum Login und versuchen Sie es erneut.",
+    "title": "Es ist ein Fehler aufgetreten"
+  },
+  "password_change": {
+    "cancel": {
+      "text": "Abbrechen"
+    },
+    "password": {
+      "error": {
+        "in_history": "Das eigegebene Passwort wurde bereits einmal verwendet. Bitte verwenden Sie ein anderes Passwort.",
+        "required": "Bitte geben Sie hier das neue Passwort ein. Dieses Feld darf nicht leer sein.",
+        "rules_not_matched": "Bitte berücksichtigen Sie die unten aufgeführten Anforderungen. Ihr Passwort erfüllt momentan nicht alle Anforderungen.",
+        "same_as_old": "Das neue Passwort darf nicht gleich lauten wie das bisherige. Bitte verwenden Sie ein anderes Passwort."
+      },
+      "label": "Neues Passwort eingeben"
+    },
+    "process_error": {
+      "instructions": "Bitte starten Sie den Prozess neu und loggen Sie sich dazu im <span class=\"no-wrap\">E-Banking</span> mit ihrem bisherigen <span class=\"no-wrap\">E-Banking</span> Passwort erneut ein.",
+      "title": "Ihre Login Umstellung ist fehlgeschlagen."
+    },
+    "repeat_password": {
+      "error": {
+        "not_equal": "Dieses Passwort stimmt nicht mit dem oben eingegeben Passwort überein.",
+        "required": "Bitte geben Sie hier das neue Passwort nochmals ein. Dieses Feld darf nicht leer sein."
+      },
+      "label": "Neues Passwort wiederholen"
+    },
+    "security_note": {
+      "leadtext": "Der Passwortmanager Ihres Browsers aktualisiert Ihr Passwort automatisch.",
+      "title": "Gut zu wissen:"
+    },
+    "submit": {
+      "text": "Passwort ändern"
+    },
+    "title": "Bitte vergeben Sie ein neues Passwort für Ihre Vertragsnummer <span class=\"no-wrap\">{{contract}}</span>."
+  },
+  "password_change_confirmation": {
+    "continue_button": "Weiter",
+    "leadtext": "Verwenden Sie nur noch dieses Passwort für Ihren Raiffeisen Login mit dem Benutzernamen <b class=\"no-wrap\">{{contract}}</b>.",
+    "title": "Passwort erfolgreich geändert"
+  },
+  "password_validation": {
+    "digit": "min. 1 Ziffer",
+    "eight_chars": "min. 8 Zeichen (Empfohlen 12 Zeichen)",
+    "lower_case_char": "min. 1 Kleinbuchstabe",
+    "special_char": "min. 1 Sonderzeichen",
+    "upper_case_char": "min. 1 Grossbuchstabe"
+  },
+  "photo_tan": {
+    "leadtext": {
+      "text": "Lesen Sie das Mosaik mit dem Smartphone oder dem PhotoTAN-Gerät ein und geben Sie den Code vom Gerät hier ein."
+    },
+    "mosaik": {
+      "alt_text": "Scannbares Mosaik. Es befindet sich in der Mitte des Bildschirms.",
+      "browser": {
+        "info_link": "Mehr dazu erfahren",
+        "info_text": "Scannen Sie das Mosaik mit Ihrem Smartphone oder dem PhotoTAN-Gerät und geben Sie den generierten Code anschliessend ein.",
+        "info_url": "https://www.raiffeisen.ch/rch/de/hilfe-und-kontakt/raiffeisen-login.html"
+      },
+      "eb_app": {
+        "info_text": "Sie haben zwei Möglichkeiten, um sich mit PhotoTAN anzumelden:",
+        "link": "So aktivieren Sie PhotoTAN",
+        "list": "<ul><li>das vorliegende Mosaik mit einem zweiten Gerät scannen (z.B. Smartphone mit aktiviertem PhotoTAN)</li><li>PhotoTAN auf diesem Gerät aktivieren − in nur 3 Schritten</li></ul>"
+      }
+    },
+    "security_code": {
+      "error": {
+        "load_photo_tan": "Es ist ein Fehler beim Laden des PhotoTAN aufgetreten.",
+        "not_valid": "Der eingegebene Code war nicht zulässig. Bitte geben Sie den Code erneut ein.",
+        "pattern": "Bitte geben Sie den 6-stelligen Code aus der PhotoTAN-App ein.",
+        "required": "Bitte geben Sie den 6-stelligen Code aus der PhotoTAN-App ein."
+      },
+      "label": "Code eingeben"
+    },
+    "submit": {
+      "text": "Code bestätigen"
+    },
+    "switch_to_mobile_tan": "Oder SMS an {{mobileNr}}"
+  },
+  "photo_tan_activation": {
+    "info": {
+      "activate_button": "Jetzt aktivieren",
+      "info_column": {
+        "phone_ksc": "0844 888 808",
+        "text": "Haben Sie nach einer Woche Wartezeit den Brief noch nicht erhalten? Melden Sie sich bitte beim Kunden Service Center:"
+      },
+      "later_button": "Später",
+      "letter_sent_info": "Am <strong>{{date}}</strong> haben wir Ihnen einen neuen PhotoTAN-Aktivierungsbrief zugesandt. Sie haben noch keinen Aktivierungsbrief erhalten? Bitte warten Sie, bis die Post Ihnen den Brief zugestellt hat und klicken Sie bis dahin einfach auf «Später».",
+      "text": "Für die Aktivierung halten Sie bitte den Aktivierungsbrief vom {{date}} bereit.",
+      "title": "PhotoTAN aktivieren"
+    }
+  },
+  "process_error": {
+    "contact_info": "Sollte das Problem weiterhin bestehen, kontaktieren Sie bitte unser Kunden Service Center:",
+    "instructions": "Bitte versuchen Sie sich erneut einzuloggen.",
+    "retry_button": {
+      "text": "Erneut versuchen"
+    },
+    "show_contact": "Kontakt anzeigen",
+    "title": "Ihr Login ist fehlgeschlagen."
+  },
+  "pt_link_test": {
+    "var1": "Neues Gerät für PhotoTAN aktivieren",
+    "var2": "Neues Gerät für Raiffeisen Login einrichten",
+    "var3": "PhotoTAN-Aktivierungsbrief bestellen"
+  },
+  "register_mobile": {
+    "leadtext_1": "Der von Ihnen angeforderte Inhalt ist mit einer erhöhten Sicherheitsstufe geschützt.",
+    "leadtext_2": "Wir bitten Sie deshalb, Ihre Mobilnummer zu registrieren.",
+    "leadtext_3": "Anschliessend erhalten Sie von uns einen Code per SMS, um die eingegebene Mobilnummer zu bestätigen.",
+    "mobile_no": {
+      "error": {
+        "unknown": "Es ist ein technisches Problem bei der Registrierung Ihrer Mobilnummer aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie den Support."
+      },
+      "hintAndError": "Beispiele: 076 123 45 67, +41 76 123 45 67",
+      "label": "Mobilnummer"
+    },
+    "register": "Registrieren",
+    "title": "Mobilnummer registrieren"
+  },
+  "registration_confirmation": {
+    "continue": "Weiter",
+    "leadtext": "Die Nummer <b class=\"no-wrap\">{{mobileNr}}</b> wurde erfolgreich verifiziert.",
+    "title": "Nummer erfolgreich bestätigt"
+  },
+  "second_factor": {
+    "verification_for": "Sicherheitsbestätigung für"
+  },
+  "second_factor_select": {
+    "alternative_login_method": "Alternativ können Sie folgende Login-Methoden verwenden:",
+    "button_update": "PhotoTAN-App aktualisieren",
+    "no_switch_to_update_app": "Nein, jetzt PhotoTAN-App aktualisieren",
+    "photo_tan_store_url_android": "https://play.google.com/store/apps/details?id=ch.raiffeisen.phototan",
+    "photo_tan_store_url_ios": "https://apps.apple.com/ch/app/raiffeisen-phototan/id576512319",
+    "switch_to_mobile_tan": "SMS an {{mobileNr}}",
+    "switch_to_mosaik": "Mosaik mit zweitem Gerät scannen",
+    "update_done_title": "Wurde die PhototTAN App von Ihnen aktualisiert?",
+    "update_lead": "Eine Aktualisierung der Raiffeisen PhotoTAN-App ist notwendig.",
+    "update_title": "PhotoTAN-App Update erforderlich",
+    "yes_switch_to_app2app": "Ja, weiter fortfahren"
+  },
+  "slider": {
+    "show_hints": "Hinweise einblenden"
+  },
+  "splash_screen": {
+    "leadtext": "Mit Ihrem persönlichen Login melden Sie sich zu allen Raiffeisen Online-Services an.<br>Dafür brauchen wir noch einige Daten von Ihnen - für mehr Sicherheit.",
+    "next_button": "Weiter",
+    "title": "Willkommen {{firstName}} {{lastName}}"
+  },
+  "swiss_id": {
+    "not_available_error": "Es besteht ein technisches Problem. Das Login mit SwissID ist vorübergehend nicht verfügbar."
+  },
+  "temp_locked": {
+    "info_text": "Aufgrund mehrerer Fehlversuche beim Login oder der Sicherheitsabfrage ist ein erneuter Login nach Ablauf der temporären Sperrfrist wieder möglich.",
+    "retry_attempts": "Fehlversuche bisher: {{retry}} von {{maxRetries}}",
+    "title": "Ihr Login ist vorübergehend gesperrt.",
+    "unlock_button": {
+      "text": "Login entsperren"
+    }
+  },
+  "terms_of_services": {
+    "accept": "Zustimmen",
+    "deny": "Ablehnen",
+    "title": "Nutzungsbedingungen"
+  },
+  "timeout": {
+    "homepage": "Oder zur Startseite",
+    "leadtext": "Sie wurden abgemeldet von: {{location}}",
+    "login_button": {
+      "text": "Erneut einloggen"
+    },
+    "title": "Sie wurden automatisch abgemeldet."
+  },
+  "unexpected_error": {
+    "instructions": "Bitte schliessen Sie alle Browser-Fenster und melden Sie sich neu mit Ihrem Raiffeisen Login an. Sollte das Problem weiterhin bestehen, kontaktieren Sie bitte unser Kunden Service Center:",
+    "show_contact": "Kontakt anzeigen",
+    "title": "Der Login-Prozess musste abgebrochen werden"
+  },
+  "unsupported_browser_error": {
+    "browser_check": {
+      "text": "Übersicht sichere Internet-Browser",
+      "url": "https://www.raiffeisen.ch/browser"
+    },
+    "lead": "Zu Ihrer eigenen Sicherheit ist ein <strong>Login mit dem Browser, den Sie aktuell nutzen, nicht möglich.</strong> Der Browser oder die Browserversion ist leider veraltet und erfüllt die nötigen Sicherheitsanforderungen nicht mehr.<br><br>Wir bieten Ihnen eine <strong>Übersicht über die von Raiffeisen unterstützten Browser.</strong> Sie können die neueste Browserversion direkt auf der Website des jeweiligen Browser-Anbieters herunterladen und sich dann sofort wieder im Raiffeisen Login anmelden. Wir freuen uns, Sie hier zu begrüssen.",
+    "title": "Bitte aktualisieren Sie jetzt Ihren Internet-Browser"
+  },
+  "user_info": {
+    "last_login": {
+      "date_time": "<br>am {{date}} {{time}} Uhr",
+      "device_mobile_tan": " mit SMS an <span class=\"no-wrap\">{{device}}</span>",
+      "device_photo_tan": " mit <span class=\"no-wrap\">{{device}}</span>",
+      "text": "Ihre letzte Anmeldung"
+    },
+    "security_advice": {
+      "security_link": "https://raiffeisen.ch/sicherheit",
+      "security_link_text": "raiffeisen.ch/sicherheit",
+      "text1": "Überprüfen Sie immer, ob die Adresszeile der Loginseite das Schloss-Symbol, https und raiffeisen.ch enthält.",
+      "text2": "Weitere wichtige Verhaltenstipps unter:",
+      "title": "Sicherheitshinweise"
+    },
+    "welcome": "Willkommen"
+  },
+  "validate_mobile": {
+    "confirm": "Code bestätigen",
+    "leadtext": {
+      "text": "Der 6-stellige Code wurde an <span class=\"no-wrap\"><strong>{{mobileNr}}</strong></span> gesendet."
+    },
+    "resend": {
+      "done": "SMS versendet",
+      "text": "Erneut senden",
+      "tip": "Keine SMS erhalten?"
+    },
+    "security_code": {
+      "error": {
+        "not_valid": "Der eingegebene Code war nicht zulässig. Bitte geben Sie den Code erneut ein.",
+        "pattern": "Bitte geben Sie den 6-stelligen Code aus der SMS ein.",
+        "required": "Bitte geben Sie den 6-stelligen Code aus der SMS ein.",
+        "send_mtan": "Es ist ein Fehler beim Versenden des SMS aufgetreten. Bitte versuchen Sie es erneut.",
+        "unknown": "Es ist ein technisches Problem bei der Registrierung Ihrer Mobilnummer aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie den Support."
+      },
+      "label": "Code eingeben"
+    },
+    "title": "Mobilnummer bestätigen"
+  },
+  "verify_email": {
+    "confirm": "Code bestätigen",
+    "email_sent_text": "Der 6-stellige Code wurde an <span class=\"no-wrap\"><strong>{{email}}</strong></span> gesendet.",
+    "info": "Haben wir den Code an Ihre richtige E-Mail-Adresse gesendet? Ansonsten melden Sie sich bitte bei unserem Kunden Service Center:<br><br>0844 888 808",
+    "leadtext": "Mit einer bestätigten E-Mail stellen Sie Ihren Raiffeisen Login wieder her, z.B. falls Sie Ihr Passwort vergessen.",
+    "security_code": {
+      "error": {
+        "not_valid": "Der eingegebene Code war nicht zulässig. Bitte geben Sie den Code erneut ein.",
+        "pattern": "Bitte geben Sie den 6-stelligen Code aus der E-Mail ein.",
+        "required": "Bitte geben Sie den 6-stelligen Code aus der E-Mail ein.",
+        "send_mtan": "Es ist ein Fehler beim Versenden der E-Mail aufgetreten. Bitte versuchen Sie es erneut.",
+        "unknown": "Es ist ein technisches Problem bei der Registrierung Ihrer E-Mail-Adresse aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie den Support."
+      },
+      "label": "Code eingeben"
+    },
+    "tip": "E-Mail nicht erhalten, auch nicht im Spam-Ordner?",
+    "title": "Bitte geben Sie den Bestätigungscode aus der E-Mail ein."
+  },
+  "verify_mobile": {
+    "confirm": "Code bestätigen",
+    "info": "Haben wir den Code an Ihre richtige Mobilnummer gesendet? Ansonsten melden Sie sich bitte bei unserem Kunden Service Center:<br><br>0844 888 808",
+    "leadtext": "Bitte bestätigen Sie Ihre Mobilnummer für mehr Sicherheit. Geben Sie dafür einfach den Code ein, den wir Ihnen per SMS gesendet haben.",
+    "resend": {
+      "done": "SMS versendet",
+      "text": "Erneut senden",
+      "tip": "Keine SMS erhalten?"
+    },
+    "security_code": {
+      "error": {
+        "not_valid": "Der eingegebene Code war nicht zulässig. Bitte geben Sie den Code erneut ein.",
+        "pattern": "Bitte geben Sie den 6-stelligen Code aus der SMS ein.",
+        "required": "Bitte geben Sie den 6-stelligen Code aus der SMS ein.",
+        "send_mtan": "Es ist ein Fehler beim Versenden des SMS aufgetreten. Bitte versuchen Sie es erneut.",
+        "unknown": "Es ist ein technisches Problem bei der Registrierung Ihrer Mobilnummer aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie den Support."
+      },
+      "label": "Code eingeben"
+    },
+    "sms_sent_text": "Der 6-stellige Code wurde an <span class=\"no-wrap\"><strong>{{mobileNr}}</strong></span> gesendet.",
+    "title": "Mobilnummer bestätigen für Ihren Raiffeisen Login <span class=\"no-wrap\">{{username}}</span>"
+  }
+}
