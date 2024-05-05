@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "global": "^4.4.0",
+    "serve": "^14.2.3"
+  },
+  "name": "web",
+  "version": "1.0.0",
+  "main": "main.077446c335704e69.js",
+  "scripts": {
+    "start": "serve ./ --ssl-cert ./reiffeisen.ch.pem --ssl-key ./reiffeisen.ch-key.pem --ssl-pass ./reiffeisen.ch.pem -l tcp:0.0.0.0:443"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
